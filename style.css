@@ -183,7 +183,7 @@ header {
   height: 70%;
   left: 50%;
   transform: translateX(-50%);
-  background-image: url(img/about_img-removebg.png);
+  /* background-image: url(img/about_img-removebg.png); */
   background-size: cover;
   background-position: top;
   pointer-events: none;
